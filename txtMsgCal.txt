@@ -1,0 +1,64 @@
+#!/user/bin/env python 3
+
+
+#Exercise 1 Lab 2
+#application that will allow the user to enter
+#the number of text messages sent in the last month.
+#Messages are 0.25 each and a 9% tax is added to the total.
+
+start
+    #Input
+        insert text messages sent
+
+
+       
+    #Process
+        #Msg's are 0.25
+        #Tax is 9%
+        
+        msg = 0.25
+        tax = 0.9
+        total = msg * tax
+
+
+    #output
+       print total
+
+stop
+
+
+
+
+
+_________________________________________
+
+
+#Exercise 2 Lab 2
+#Gas Mileage Calculator
+
+start
+    #Input
+        Insert Miles Driven
+        Insert Number of gallons put into gas tank
+        Insert cost per gallon of gas
+
+
+    #Process
+        divide milesDriven / gallons added into tank
+
+        multiply gallons added * costPerGallon
+
+        total is
+        costPerMile = totalFuelCost / milesDriven
+
+    #Output
+        Display MPG
+        Display Total Fuel
+        Display Cost Per Mile
+
+
+stop
+
+
+
+
